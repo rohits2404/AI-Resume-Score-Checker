@@ -77,8 +77,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
-cd ai-resume-analyzer
+git clone https://github.com/rohits2404/AI-Resume-Score-Checker.git
+cd ai-resume-score-checker
 ```
 
 **Installation**
